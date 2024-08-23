@@ -1,12 +1,3 @@
-.msg{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    color: red;
-    align-items: center;
-    height: 100vh;
-}
-
 .Bogado{
     color:forestgreen;
     font-weight: bold;
